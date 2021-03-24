@@ -3,7 +3,7 @@ pipeline {
     stages {
         stage('Test') {
             steps {
-                echo 'Testing webhook - master 12313'
+                echo 'Testing webhook - master'
             }
         }
     }
